@@ -13,7 +13,7 @@
 	* Studied C ++ (basics of OOP); A very small part of C # and Python; Now I study javascript
 	* I also know the basics of Photoshop, Lightroom and Adobe After Effects.
 5. [Simple 1](https://presidentsboyfriend.github.io/rsschool-2019Q1-cv/ "Link")
-   [Simple 2](https://presidentsboyfriend.github.io/slider/slider "Link")
+   [Simple 2 (test)](https://presidentsboyfriend.github.io/slider/slider "Link")
 6. __Experience__: 
 	* Experience in C ++ and C # was at the university: course work on working with modules of the program.
 	* I am learning javascript now. I take courses, attend webinars and meetup. [Code examples on github](https://presidentsboyfriend.github.io/rsschool-2019Q1-cv/ "Link Git").

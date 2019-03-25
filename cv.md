@@ -2,7 +2,7 @@
 ## Hi i'm Andrew
  >I am 20 years old. I study in BNTU on the 3rd course at the Faculty of Information Technology and Robotics. My specialty is “automation of technological processes and production”. 
 
-###CV [jobs.tut.by] (https://brest.jobs.tut.by/resume/cade89f7ff0623a0900039ed1f7476784b6e36 "Link")
+###CV [jobs.tut.by](https://brest.jobs.tut.by/resume/cade89f7ff0623a0900039ed1f7476784b6e36 "Link")
 
 1. __Andrey Markushevsky__
 2. __Contacts__

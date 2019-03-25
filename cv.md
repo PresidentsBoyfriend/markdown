@@ -1,4 +1,3 @@
-# Portfolio
 ## Hi i'm Andrew
  >I am 20 years old. I study at BNTU on the 3rd course at the Faculty of Information Technology and Robotics. My specialty is “automation of technological processes and production”. 
 
